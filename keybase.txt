@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/rich_janson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://janson.io
+  * I am rich_janson (https://keybase.io/rich_janson) on keybase.
+  * I have a public key with fingerprint AEE6 957A 62F7 8ED6 6620  8459 4EC2 D7A5 92DB 42DA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f03782bcd35a78ddedd6adc3127c161dfb357cd1ce969bdad03b87c8bd5278950a",
+            "fingerprint": "aee6957a62f78ed6662084594ec2d7a592db42da",
+            "host": "keybase.io",
+            "key_id": "4ec2d7a592db42da",
+            "kid": "0101f03782bcd35a78ddedd6adc3127c161dfb357cd1ce969bdad03b87c8bd5278950a",
+            "uid": "e62a269a319c6dc20f910ae9c6242d19",
+            "username": "rich_janson"
+        },
+        "revoke": {
+            "sig_ids": [
+                "f8a2d31279834f1700b63789a77dfb5ae56fe8a952f974f31645ed11e1a7aa560f"
+            ]
+        },
+        "service": {
+            "hostname": "janson.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1449299344,
+    "expire_in": 157680000,
+    "prev": "6bb0c58b5eea000857b0386f05ad0050cd17fd5f7aabbbec5a7b18c3fc9c52ee",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMJkAnicrZJNbFVFGIbvvVCsTdCa1ARDDelEKpLazMw5M3PmhhAIENQFxA0xteQ6
+v7eHi+dczz1tbUpJiARaAoQaEwl/KkUSF8jPwkQpFhqlGlR2TblKRDHBuCN1YRWM
+cwruXDqbyXx5v/d75p35YvGCXFP+Rldnh9yDV+WvXZntzW2RBw4NAhnrAVAcBBUz
+v5nt2tTSUiXUoAgggshCjwVYKu0RwQKtjdZUaOUhzBSiSFvpEaY0UoZTLrXQ0JMB
+U4HUBLOAEyhAB7BhVDZJNQmj1NkKYygnTFBsWWA0pRTDwCfcNwprJgjHWvpYZ409
+cS3rcHBS1ExnGLuaO5Tm8f5D/z9z987bGYoFplx4iCuqFYaWIyiMO2A3FvFMWDNJ
+JF43Tp2Eqqe0TUS1OAJDHSAxfXHFZNHWwrLjroHiq8AGAusMhQeebxGDUFKHywVj
+DowIQ6g1geAEW8586yHqE6MRMkgwIQiFFmx13m5oX6jmzbOgHgI8mP0gq2oSp7GK
+t7tyT5pWixlROlDNZP1Glh4alGQYafdErqHPJLXQkReRU6o0zByR73PMuef7HcC8
+WQ0TUwozBWE0gG5lY0yfs6RSQkUCSYwRrh4QJqEXUAuJixcS6OJmVhPr7iClNMq9
+jESB8qziimBjQHalN6I483acouw8XWqRSHsTA4YmL3cvzOWbcosaCtnfzTU92vzv
+j/7x50fuNSVjT3yiRyd2pdMn9Ypf1w18NMK+mz3x/fj09VPxc/FE/a438tRMS9el
+g7/B4Y/71dEtZ57/dG7qJmi833lx/L2vrz1Z/3PVna4Vt/I71z+9b3j/2hsfHk7P
+Pbv0yLLdJ7b1fsML73g77l+9+dfuHUte2Yf+OHrhTH9j68qW7qu3ovyyma8mJ194
+sbFr+VBL80unfjr02urP6u0fbB7a+9aGjcnv38ZTSwuFhpNj9vb7yRScXjt69l6h
+fuzdBdPn91weO31sFuxsmLkStg+PVK6rtvE5aJYnrW1ti35ZODG26c4PdvTimu67
+u7xLX7bXb4+vLidLKofn3j7+95F8y2Og+fPyM48Pbn659R9hi11a
+=8aV7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rich_janson
+
+==================================================================

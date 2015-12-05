@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-bo",
+				"border-bottom-right-radius"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rich/Dropbox/Development/rgsWebApp/Brocfile.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/router.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/templates/app.hbs",
+		"/Users/rich/Dropbox/Development/rgsWebApp/tests/helpers/start-app.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/routes/application.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/templates/login.hbs",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/controllers/login.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/templates/index.hbs",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/templates/syndicates.hbs",
+		"/Users/rich/Dropbox/Development/rgsWebApp/.gitignore",
+		"/Users/rich/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/templates/application.hbs",
+		"/Users/rich/Dropbox/Development/rgsWebApp/vendor/twilli_air/css/styles.css",
+		"/Users/rich/Dropbox/Development/rgsTmp/index.html",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/routes/index.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/routes/join.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/routes/syndicates.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/templates/join.hbs",
+		"/Users/rich/Downloads/index.html",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/index.html",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/styles/app.css",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/app.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/config/environment.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/dist/sftp-config.json",
+		"/Users/rich/Dropbox/Development/rgsWebApp/bower_components/ember-qunit/LICENSE",
+		"/Users/rich/Dropbox/Development/rgsWebApp/bower_components/ember-load-initializers/ember-load-initializers.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/node_modules/body-parser/node_modules/iconv-lite/encodings/internal.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/node_modules/ember-cli/node_modules/lodash-node/compat/internals/arrayPool.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/node_modules/ember-cli/node_modules/lodash-node/compat/internals/isNative.js",
+		"/Users/rich/Dropbox/Development/rgsWebApp/node_modules/ember-cli/.bundle/install.log",
+		"/Users/rich/Dropbox/Development/rgsWebApp/app/templates/about.hbs",
+		"/Users/rich/Dropbox/Development/rgsWebApp/dist/assets/vendor.css",
+		"/Users/rich/Dropbox/Development/rgsWebApp/dist/index.html",
+		"/Users/rich/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/rich/Dropbox/Development/rgsTmp/cheers.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bottom",
+			"assets/images",
+			"section-wrapper",
+			"-479897573fa591f3048791420ce6052b",
+			"section-wrapper",
+			"bg5",
+			"main_menu",
+			"font",
+			"bg1",
+			"background",
+			"assets",
+			"../vendor",
+			"/vendor",
+			"assets"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"assets/twilli_air",
+			"sex-wrap",
+			"",
+			"styles/twilli_air_1.2.1/assets",
+			"styles",
+			"../vendor",
+			"/vendor/twilli_air_1.2.1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

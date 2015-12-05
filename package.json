@@ -1,0 +1,17 @@
+{
+  "name": "janson.io",
+  "version": "1.0.0",
+  "description": "janson.io static website",
+  "main": "Brocfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rjanson",
+  "license": "ISC",
+  "devDependencies": {
+    "broccoli": "^0.16.9",
+    "broccoli-concat": "0.0.13",
+    "broccoli-funnel": "^1.0.1",
+    "broccoli-merge-trees": "^1.0.0"
+  }
+}
